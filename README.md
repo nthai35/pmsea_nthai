@@ -1,10 +1,11 @@
 # pmsea_nthai
 
-# I love being outdoors! 
+# Some of my favorite things to do!
 
-## I cannot wait until winter. 
+ ## I **love** being outdoors.
+ 
+ I like hiking, snowboarding, riding motorcycles, and playing sports.
 
-I **love** hanging out with *friends*! 
+## I **love** hanging out with *friends*! 
 
-
-Creating my first site so that I can practice building a repository. 
+My friends and I enjoy doing activities together. 
