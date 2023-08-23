@@ -1,6 +1,6 @@
 # Some of my favorite things to do!
 
- ## I **love** being outdoors.
+## I love being outdoors.
  
  I like hiking, snowboarding, riding motorcycles, and playing sports.
 
