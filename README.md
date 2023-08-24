@@ -6,4 +6,4 @@
 
 ## I **love** hanging out with *friends*! 
 
-My friends and I enjoy doing activities together. 
+My friends and I *enjoy* doing activities together. 
